@@ -12,7 +12,7 @@ public class Myprogramme {
 		names.push("Paragol_4");
 		names.push("Paragol_5");
 		System.out.println(names);
-		names.pop();
+//		names.pop();
 		System.out.println(names);
 		System.out.println(names.peek());
 		System.out.println(names.search("Paragol_4"));
