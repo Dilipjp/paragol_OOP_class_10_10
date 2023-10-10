@@ -1,0 +1,10 @@
+package paragol_OOP_class_10_10;
+
+public class Stack {
+	
+	public static void main(String[] args) {
+		Stack names = new Stack();
+		name.push("Paragol");
+	}
+
+}

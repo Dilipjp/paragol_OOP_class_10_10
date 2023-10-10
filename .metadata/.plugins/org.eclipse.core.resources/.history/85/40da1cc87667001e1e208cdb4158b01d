@@ -1,0 +1,10 @@
+package paragol_OOP_class_10_10;
+
+public class Myprogramme {
+	
+	public static void main(String[] args) {
+		Myprogramme names = new Myprogramme();
+		name.push("Paragol");
+	}
+
+}

@@ -1,0 +1,15 @@
+package paragol_OOP_class_10_10;
+
+import java.util.Stack;
+
+public class Myprogramme {
+	
+	public static void main(String[] args) {
+		Stack<String> names = new Stack<>();
+		names.push("Paragol");
+		names.push("Paragol");
+		names.push("Paragol");
+		System.out.println(names);
+	}
+
+}
