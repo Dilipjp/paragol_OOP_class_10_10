@@ -1,0 +1,25 @@
+package pack3;
+
+import java.util.LinkedList;
+import java.util.Queue;
+
+public class Myprogram {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Queue<String> names = new LinkedList<>();
+		names.poll();
+		System.out.println(names);
+		names.add("paragol");
+		names.add("parago2");
+		names.add("parago3");
+		System.out.println(names);
+		names.remove();
+		System.out.println(names);
+		names.add("parago4");
+		System.out.println(names);
+		
+		System.out.println(names.peek());
+	}
+
+}
